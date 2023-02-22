@@ -1,5 +1,9 @@
 body{
-    background-color: antiquewhite;
+    background-image: url('../Asset/coffee.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
 }
 
 h1{
